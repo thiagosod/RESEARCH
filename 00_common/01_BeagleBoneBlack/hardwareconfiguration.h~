@@ -1,0 +1,6 @@
+#ifndef __BEAGLEBONEBLACKHWCONFIG__
+#define __BEAGLEBONEBLACKHWCONFIG__
+
+
+void initHWConfiguration()
+#endif
